@@ -1,7 +1,6 @@
-cd /mnt/okcomputer/output/app
-
-git init
-git add .
-git commit -m "NIEBLA Admin"
-git remote add origin https://github.com/TU-USUARIO/niebla-admin.git
-git push -u origin main
+niebla/
+├── package.json
+├── server.js
+├── src/
+├── dist/
+└── ...
